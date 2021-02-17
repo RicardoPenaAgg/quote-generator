@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/quote-generator/static/css/main.4690c2b0.chunk.css",
-    "main.js": "/quote-generator/static/js/main.f06a3605.chunk.js",
-    "main.js.map": "/quote-generator/static/js/main.f06a3605.chunk.js.map",
+    "main.js": "/quote-generator/static/js/main.b523fd0f.chunk.js",
+    "main.js.map": "/quote-generator/static/js/main.b523fd0f.chunk.js.map",
     "runtime-main.js": "/quote-generator/static/js/runtime-main.e3dc846e.js",
     "runtime-main.js.map": "/quote-generator/static/js/runtime-main.e3dc846e.js.map",
     "static/js/2.b364f967.chunk.js": "/quote-generator/static/js/2.b364f967.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e3dc846e.js",
     "static/js/2.b364f967.chunk.js",
     "static/css/main.4690c2b0.chunk.css",
-    "static/js/main.f06a3605.chunk.js"
+    "static/js/main.b523fd0f.chunk.js"
   ]
 }
