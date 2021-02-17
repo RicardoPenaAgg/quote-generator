@@ -4,7 +4,7 @@ import React from "react";
 function App() {
   const [quoteData,setQuoteData] = React.useState({})
   const getQuote= async ()=>{
-  const quoteData = await fetch("http://staging.quotable.io/random")
+  const quoteData = await fetch("https://api.quotable.io/random")
   return quoteData.json()
   }
   
